@@ -50,3 +50,5 @@ H₁: There is a significant association between marital status and credit card 
 H₀: There is no significant difference in the mean credit limit between customers who defaulted and customers who did not default.
 
 H₁: There is a significant difference in the mean credit limit between customers who defaulted and customers who did not default.
+
+
